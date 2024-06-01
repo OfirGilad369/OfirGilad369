@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 This is my main GitHub account. \
 Feel free to check my alternative GitHub accounts:
 
-- **Ben Gurion University** GitHub: [OfirGilad](https://github.com/OfirGilad)
+- **Ben Gurion University** GitHub: [OfirGiladBGU](https://github.com/OfirGiladBGU)
 - **Dataloop AI** GitHub: [OfirDataloopAI](https://github.com/OfirDataloopAI)
 
 ### My Stats 📊
