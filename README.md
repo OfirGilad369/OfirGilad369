@@ -30,16 +30,16 @@ _**OfirGilad369**_
 <a href="https://github.com/OfirGilad369?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OfirGilad369&theme=vue&layout=compact" alt="top langs" height="156"/></a>
 </p>
 
-_**OfirGilad**_
+_**OfirGiladBGU**_
 
 <p align="left">
-<a href="https://github.com/OfirGilad369?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=OfirGilad&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
-<a href="https://github.com/OfirGilad369?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OfirGilad&theme=vue&layout=compact" alt="top langs" height="156"/></a>
+<a href="https://github.com/OfirGiladBGU?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=OfirGiladBGU&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
+<a href="https://github.com/OfirGiladBGU?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OfirGiladBGU&theme=vue&layout=compact" alt="top langs" height="156"/></a>
 </p>
 
 _**OfirDataloopAI**_
 
 <p align="left">
-<a href="https://github.com/OfirGilad369?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=OfirDataloopAI&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
-<a href="https://github.com/OfirGilad369?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OfirDataloopAI&theme=vue&layout=compact" alt="top langs" height="156"/></a>
+<a href="https://github.com/OfirDataloopAI?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=OfirDataloopAI&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>
+<a href="https://github.com/OfirDataloopAI?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=OfirDataloopAI&theme=vue&layout=compact" alt="top langs" height="156"/></a>
 </p>
